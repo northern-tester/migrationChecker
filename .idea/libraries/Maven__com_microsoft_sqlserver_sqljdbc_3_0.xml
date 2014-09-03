@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Maven: com.microsoft.sqlserver:sqljdbc:3.0">
+    <CLASSES>
+      <root url="jar://C:/Program Files/SmartBear/SoapUI-Pro-4.6.4/bin/ext/sqljdbc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
